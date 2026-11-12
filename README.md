@@ -15,12 +15,13 @@ I like software that feels fast, looks clean and solves one real problem well. I
 | **[LiteDisplay](https://github.com/renatoasterio/LiteDisplay)** | Crisp text on Full HD monitors plugged into Apple Silicon Macs. No more blurry fonts. |
 | **[Claude MultiSpace](https://github.com/renatoasterio/multiples-claude)** | Run all your Claude accounts side by side, no logging out. macOS and Windows. |
 | **[Magic Mouse 2 Fix](https://github.com/renatoasterio/magic-mouse-2-fix-os27)** | One double-click to wake a Magic Mouse that connects but won't move on macOS 27. |
+| **[DynamoOps](https://github.com/renatoasterio/DynamoOps)** | A free, fast desktop app for Amazon DynamoDB. Query, edit and manage tables without fighting the AWS Console. macOS and Windows. [dynamoops.io](https://dynamoops.io) |
 
 Plus a few SaaS products running in the wild: marketplace automation, affiliate deal publishing for WhatsApp and Telegram, and loan management.
 
 #### 🛠️ What I work with
 
-`TypeScript` · `Next.js` · `Node.js` · `Swift` · `Electron` · `Supabase` · `Docker` · `Claude Code`
+`TypeScript` · `Next.js` · `Node.js` · `Swift` · `Electron` · `AWS` · `Supabase` · `Docker` · `Claude Code`
 
 #### 🧠 How I work
 
